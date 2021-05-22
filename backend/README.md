@@ -1,4 +1,4 @@
-# 🚀 Google Docs Clone - Front-End
+# 🚀 Google Docs Clone - Back-End
 
 ## 🔧 How to run the project
 
@@ -25,7 +25,3 @@
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 
 - [Editor Config](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
-
-- [vscode-styled-components](https://marketplace.visualstudio.com/items?itemName=jpoissonnier.vscode-styled-components)
-
-- [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
