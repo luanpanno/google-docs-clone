@@ -8,7 +8,7 @@
 
 2.  Run the project by the following line:
 
-        yarn start
+        yarn dev
 
 ### ⚙️ Settings
 
