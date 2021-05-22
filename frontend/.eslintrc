@@ -46,6 +46,7 @@
     "no-underscore-dangle": "off",
     "react/display-name": "off",
     "no-useless-return": "off",
-    "no-new": "off"
+    "no-new": "off",
+    "consistent-return": "off"
   }
 }
